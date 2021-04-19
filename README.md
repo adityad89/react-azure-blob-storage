@@ -3,9 +3,11 @@
 ## Install
 ```bash
 # with npm
+npm install @azure/storage-blob
 npm install react-azure-blob-storage
 
 # or with Yarn
+yarn add @azure/storage-blob
 yarn add react-azure-blob-storage
 ```
 ## Prerequisite
